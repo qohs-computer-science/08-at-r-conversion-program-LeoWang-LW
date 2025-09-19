@@ -20,7 +20,21 @@ public class HelloWorld {
 			choice = scanner.nextInt();
 		}
 		
+		if(choice == 1){
+			int decimal = 0; 
+			System.out.println("What is the binary number?"); 
+			String binary = scanner.nextLine();
+			}
 
+		}
+	
+	public static String convertBintoDec(String b){
+		for(int i = 0; i < b.length(), i++){
+			
+		}
+
+
+	}
 
 
 
